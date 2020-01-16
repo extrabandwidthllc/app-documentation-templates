@@ -7,7 +7,7 @@
 
 # How it Works
 
-* ***IO Informant monitors inbound heartbeats from your services, and it actively monitors websites and APIs. When a service or batch job skips a heartbeat, when a website fails to load, or when an API fails to respond properly, IO Informant can send an alert to your PagerDuty account and your on-call team. ***
+* ***IO Informant monitors inbound heartbeats from your services, and it actively monitors websites and APIs. When a service or batch job skips a heartbeat, when a website fails to load, or when an API fails to respond properly, IO Informant can send an alert to your PagerDuty account and your on-call team.***
 * ***Once an alert has been resolved, your on-call team will need to click the `resolve` button in PagerDuty.***
 
 
